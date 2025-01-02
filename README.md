@@ -11,7 +11,7 @@ I'm a highly skilled **Network DevOps Engineer** with CCNA and CCNP certificatio
 - **Network Monitoring & Automation**: Improving network monitoring, implementing robust backup strategies, and ensuring maximum network efficiency and uptime.
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [linkedin.com/in/yasser-tolba](https://linkedin.com/in/yasser-tolba)
+- **LinkedIn**: [linkedin.com/in/yasser-tolba](/in/yasser-tolba)
 - **Email**: [yasser.a.tolba@gmail.com](mailto:yasser.a.tolba@gmail.com)
 
 Feel free to explore my repositories and projects to see how I blend network engineering with DevOps principles.
