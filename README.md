@@ -12,6 +12,6 @@ I'm a highly skilled **Network DevOps Engineer** with CCNA and CCNP certificatio
 
 ## 📫 Let's Connect!
 - **LinkedIn**: [/in/yasser-tolba](https://linkedin.com/in/yasser-tolba)
-- - **Email**: [yasser.a.tolba@gmail.com](mailto:yasser.a.tolba@gmail.com)
+- **Email**: [yasser.a.tolba@gmail.com](mailto:yasser.a.tolba@gmail.com)
 
 Feel free to explore my repositories and projects to see how I blend network engineering with DevOps principles.
