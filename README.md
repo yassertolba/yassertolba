@@ -1,16 +1,17 @@
-## Hi there 👋
+# Greetings! 👋
 
-<!--
-**yassertolba/yassertolba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's **Yasser Ahmed**.
 
-Here are some ideas to get you started:
+I'm a highly skilled **Network DevOps Engineer** with CCNA and CCNP certifications, specializing in automating and securing complex network infrastructures. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Expertise
+- **Python Scripting**: Crafting robust scripts to automate network tasks.
+- **DevOps Tools**: Proficient in using Ansible and Docker for streamlined operations.
+- **Custom Python GUIs**: Developing intuitive GUIs for efficient network management.
+- **Network Monitoring & Automation**: Improving network monitoring, implementing robust backup strategies, and ensuring maximum network efficiency and uptime.
+
+## 📫 Let's Connect!
+- **LinkedIn**: [linkedin.com/in/yasser-tolba](https://linkedin.com/in/yasser-tolba)
+- **Email**: [yasser.a.tolba@gmail.com](mailto:yasser.a.tolba@gmail.com)
+
+Feel free to explore my repositories and projects to see how I blend network engineering with DevOps principles.
